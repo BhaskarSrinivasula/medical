@@ -1,0 +1,36 @@
+{
+  "patientCollection": [
+    {
+      "patientFName": "John",
+      "patientMName": "",
+      "patientLName": "Williams",
+      "gender": "male",
+      "birthDate": "2023-09-01",
+      "bloodGroup": "B+",
+      "contactNumbers": "1234512345,2244668800",
+      "diseasesDescription": "Unknown",
+      "address": "Unknown",
+      "id": 1
+    },
+    {
+      "patientFName": "Bhaskar",
+      "patientMName": "Prabhat",
+      "patientLName": "Srinivasula",
+      "gender": "male",
+      "birthDate": "2025-06-01",
+      "bloodGroup": "B+",
+      "contactNumbers": "9676583892",
+      "diseasesDescription": "Heart",
+      "address": "4-197/1 , Parvathi Nagar 1st Street , Palakol , W.G, A.P -534260",
+      "id": 2
+    }
+  ],
+  "feedbacks": [
+    {
+      "name": "BHASKARA PRABHAT SRINIVASULA",
+      "email": "s.bhaskarprabhat@gmail.com",
+      "feedback": "good",
+      "id": 1
+    }
+  ]
+}
